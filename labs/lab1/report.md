@@ -36,12 +36,12 @@ Date of finished: 10.09.2022
 
 ## Схема
 
-![схема](https://github.com/blackberry22/2022_2023-introduction_to_distributed_technologies-k4111c-avdeeva_ml/blob/main/labs/lab1/schema.png)
+![схема](https://github.com/Whatislove118/2022_2023-introduction_to_distributed_technologies-k4110c-pochikalin_vo/tree/master/labs/lab1/schema.png)
 
 ## Расположение токена
 
-![расположение токена](https://github.com/blackberry22/2022_2023-introduction_to_distributed_technologies-k4111c-avdeeva_ml/blob/main/labs/lab1/token.png)
+![расположение токена](https://github.com/Whatislove118/2022_2023-introduction_to_distributed_technologies-k4110c-pochikalin_vo/tree/master/labs/lab1/token.png)
 
 ## Результат работы
 
-![результат работы](https://github.com/blackberry22/2022_2023-introduction_to_distributed_technologies-k4111c-avdeeva_ml/blob/main/labs/lab1/result.png)
+![результат работы](https://github.com/Whatislove118/2022_2023-introduction_to_distributed_technologies-k4110c-pochikalin_vo/tree/master/labs/lab1/result.png)
