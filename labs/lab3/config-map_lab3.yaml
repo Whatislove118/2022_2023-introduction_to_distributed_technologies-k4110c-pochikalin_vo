@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: config-map
+data:
+  REACT_APP_USERNAME: whatislove118
+  REACT_APP_COMPANY_NAME: whatislove118_company
