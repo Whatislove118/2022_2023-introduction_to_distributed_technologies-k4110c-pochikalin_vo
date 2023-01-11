@@ -34,10 +34,6 @@ kubectl apply -f config-map_lab3.yaml
 kubectl apply -f ReplicaSet_lab3.yaml
 ```
 
-Проверим, что переменные добавлены
-
-![result2](https://github.com/Whatislove118/2022_2023-introduction_to_distributed_technologies-k4110c-pochikalin_vo/blob/master/labs/lab3/after_apply.png)
-
 Создадим сервис
 
 ```bash
