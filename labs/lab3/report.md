@@ -52,15 +52,11 @@ minikube addons list
 ```
 ![result3](https://github.com/Whatislove118/2022_2023-introduction_to_distributed_technologies-k4110c-pochikalin_vo/blob/master/labs/lab3/enabled_ingress.png)
 
-Создадим Ingress и получаем его ip
+Создадим Ingress
 
 ```bash
 minikube kubectl -- apply -f ingress_lab3.yaml 
 ```
-
-IP:
-
-![result4](https://github.com/Whatislove118/2022_2023-introduction_to_distributed_technologies-k4110c-pochikalin_vo/blob/master/labs/lab3/ingress_ip.png)
 
 сгенерируем TLS сертификат, испольюзуя openssl
 
