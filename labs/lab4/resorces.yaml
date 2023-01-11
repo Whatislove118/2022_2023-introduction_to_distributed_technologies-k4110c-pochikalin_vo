@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: config-map-lab4
 data:
-  REACT_APP_USERNAME: margarita
+  REACT_APP_USERNAME: vladislav
   REACT_APP_COMPANY_NAME: ITMO
 
 ---
