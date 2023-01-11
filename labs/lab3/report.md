@@ -10,7 +10,7 @@ Group: K4110c
 
 Author: Pochikalin Vladislav Olegovich
 
-Lab: Lab2
+Lab: Lab3
 
 Date of create: 18.11.2022
 
